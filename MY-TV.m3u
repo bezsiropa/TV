@@ -28,9 +28,9 @@ https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/A2.png",A2
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
-#EXTINF:-1 group-title="Фильмы",Amedia Hit HD
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/A-Hit.png",Amedia Hit HD
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
-#EXTINF:-1 group-title="Фильмы",Amedia Premium HD
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/A-Premium.png",Amedia Premium HD
 https://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
 #EXTINF:-1 group-title="Фильмы",Sony ТВ
 https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
