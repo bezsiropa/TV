@@ -2,13 +2,13 @@
 
 #EXTINF:-1 group-title="Фильмы",2x2
 https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/nst.png",НСТ
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/nst.png",НСТ
 http://176.222.190.76/btv/SWM/HCT/HCT.m3u8
 #EXTINF:-1 group-title="Фильмы",TV XXI
 http://176.222.190.76/btv/SWM/tv21/tv21.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/Hollywood.png",Hollywood
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/Hollywood.png",Hollywood
 http://176.222.190.76/btv/SWM/Hollywood/Hollywood.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/Hollywood-HD.png",Hollywood HD
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/Hollywood-HD.png",Hollywood HD
 http://78.26.128.59:9876/play/539/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://dvb.by/sources/logos/1133s.png",Еврокино
 http://176.222.190.76/btv/SWM/Eurokino/Eurokino.m3u8
@@ -16,17 +16,17 @@ http://176.222.190.76/btv/SWM/Eurokino/Eurokino.m3u8
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://dvb.by/sources/logos/2168s.png",TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/VipPremiere.png",VIP Premiere
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/VipPremiere.png",VIP Premiere
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/VipMegahit.png",VIP Megahit
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/VipMegahit.png",VIP Megahit
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/VipComedy.png",VIP Comedy
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/VipComedy.png",VIP Comedy
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/VipSerial.png",VIP Serial
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/VipSerial.png",VIP Serial
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/A1.png",A1
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/A1.png",A1
 https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/A2.png",A2
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/A2.png",A2
 https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
 #EXTINF:-1 group-title="Фильмы",Amedia Hit HD
 https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
@@ -38,9 +38,9 @@ https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
 #EXTINF:-1 group-title="Фильмы",Sony Turbo
 https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/fox-hd.png",FOX HD
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/fox-hd.png",FOX HD
 http://176.222.190.76/btv/SWM/FOX/FOX.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/fox-life.png",FOX Life HD
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/fox-life.png",FOX Life HD
 http://176.222.190.76/btv/SWM/FoxLife/FoxLife.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/index_files/paramount_comedy.png", Comedy Central
 http://edge05.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
@@ -48,7 +48,7 @@ http://edge05.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 group-title="Фильмы",BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
-#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/VHS.png",Видеокассета VHS
+#EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/VHS.png",Видеокассета VHS
 https://autopilot.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Фильмы",ТНТ
 https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
@@ -75,7 +75,7 @@ http://81.177.165.206:8008/playlist.m3u8
 http://176.222.190.76/btv/SWM/NatGeo_channel/NatGeo_channel.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1026.png",Nat Geo Wild
 http://176.222.190.76/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/AnimalPlanet.png",Animal Planet HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/AnimalPlanet.png",Animal Planet HD
 http://176.222.190.76/btv/SWM/animal_hd/animal_hd.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
@@ -89,7 +89,7 @@ https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD/1080p.m3u8
 http://176.222.190.76/btv/SWM/HistoryHD/HistoryHD.m3u8
 #EXTINF:-1 group-title="Познавательные",History2
 http://176.222.190.76/btv/SWM/History2HD/History2HD.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/travel+adventure.png",Travel+Adventure HD
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/travel+adventure.png",Travel+Adventure HD
 http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8?token=test
 #EXTINF:-1 group-title="Познавательные",Моя планета
 http://176.222.190.76/btv/SWM/PlanetaHD/PlanetaHD.m3u8
@@ -122,29 +122,29 @@ http://176.222.190.76/btv/SWM/SetantaSport_HD/SetantaSport_HD.m3u8
 http://176.222.190.76/btv/SWM/SetantaSportPlus_HD/SetantaSportPlus_HD.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://karnei4.github.io/convert/Viasat_Sport_HD.png",Viasat Sport
 https://bl.uma.media/live/485548/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/Eurosport-1.png",Eurosport 1
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/Eurosport-1.png",Eurosport 1
 http://176.222.190.76/btv/SWM/Eurosport/Eurosport.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/Eurosport-2.png",Eurosport 2
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/Eurosport-2.png",Eurosport 2
 http://176.222.190.76/btv/SWM/Eurosport2/Eurosport2.m3u8
 #EXTINF:-1 group-title="Спорт",Матч! HD
 https://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://karnei4.github.io/convert/match_strana_hd.png",Матч! Страна
 https://bl.uma.media/live/291661/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/match-premier.png",Матч! Премьер
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/match-premier.png",Матч! Премьер
 https://bl.uma.media/live/126866/HLS/4614144_3/2/1/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/khl-prime.png",KHL Prime
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/khl-prime.png",KHL Prime
 https://okkotv-live.cdnvideo.ru/dash/khl_prime_hd/playlist.mpd
 #EXTINF:-1 group-title="Спорт",Драйв
 http://185.23.80.28:8080/Draiv/index.m3u8
 #EXTINF:-1 group-title="Спорт",Fast&Fun Box
 http://ott-cdn.ucom.am/s79/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/red-bull.png",Red Bull TV
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/red-bull.png",Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="Спорт",Авто плюс
 http://mfe.cliptv.az/dash/Avto_Plus_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2935.png",NHL Network
 http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/7328/index.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/sky-sports-f1.png",Sky Sports F1
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/sky-sports-f1.png",Sky Sports F1
 http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/7342/index.m3u8
 
 #EXTINF:-1 group-title="Релакс",Наша Сибирь HD
@@ -155,7 +155,7 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 http://176.222.190.76/btv/SWM/Zhivaya_priroda_HD/Zhivaya_priroda_HD.m3u8
 #EXTINF:-1 group-title="Релакс",World HD
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Релакс" tvg-logo="https://raw.githubusercontent.com/seazzon/TV/main/Picon/nasa-tv.png",NASA TV
+#EXTINF:-1 group-title="Релакс" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/nasa-tv.png",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 #EXTINF:-1 group-title="Свалка",Test-1
