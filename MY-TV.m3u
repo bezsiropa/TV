@@ -48,6 +48,8 @@ http://edge05.beetv.kz/btv/SWM/Paramount_Comedy/Paramount_Comedy.m3u8
 http://stream.backustv.ru/live/btv/index.m3u8
 #EXTINF:-1 group-title="Фильмы",BackusTV Страшное
 http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 group-title="Фильмы",Trash
+https://livetv.mylifeisgood.ml/channels/trash.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/VHS.png",Видеокассета VHS
 https://autopilot.catcast.tv/content/37925/index.m3u8
 #EXTINF:-1 group-title="Фильмы",ТНТ
@@ -95,12 +97,18 @@ http://31.148.48.15:80/Travel_Adventure_HD/index.m3u8?token=test
 http://176.222.190.76/btv/SWM/PlanetaHD/PlanetaHD.m3u8
 #EXTINF:-1 group-title="Познавательные",Приключения HD
 http://193.33.240.8:8080/teletravel_hd/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Big Planet
+http://176.222.190.76/btv/SWM/big_planet_hd/big_planet_hd.m3u8
+#EXTINF:-1 group-title="Познавательные",TERRA
+https://livetv.mylifeisgood.ml/channels/national_geographic.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://karnei4.github.io/convert/RTG_HD.png",RTG HD
 https://strm.yandex.ru/kal/rtg/rtg0.m3u8
 #EXTINF:-1 group-title="Познавательные",Бобёр
 http://176.222.190.76/btv/SWM/Bober/Bober.m3u8
 #EXTINF:-1 group-title="Познавательные",Загородная жизнь
 http://176.222.190.76/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn.m3u8
+#EXTINF:-1 group-title="Познавательные",Загородный
+https://livetv.mylifeisgood.ml/channels/zagorodint.m3u8
 #EXTINF:-1 group-title="Познавательные",Диалоги о рыбалке
 https://strm.yandex.ru/kal/dialogi/dialogi0.m3u8
 #EXTINF:-1 group-title="Познавательные",Тайна
