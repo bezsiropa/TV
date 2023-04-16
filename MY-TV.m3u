@@ -120,11 +120,22 @@ http://92.50.128.180/utv/1358/index.m3u8
 
 #EXTINF:-1 group-title="Мультики",2x2
 https://bl.uma.media/live/317805/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Мультики", Nicktoons
+http://176.222.190.76/btv/SWM/nicktoons/nicktoons.m3u8
 #EXTINF:-1 group-title="Мультики",Карусель
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/11) HlsWinkPlayer
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/variant.m3u8
+https://livetv.mylifeisgood.ml/channels/karuselvgtrk.m3u8
+#EXTINF:-1 group-title="Мультики",В гостях у сказки
+http://176.222.190.76/btv/SWM/U_Skazki/U_Skazki.m3u8
 #EXTINF:-1 group-title="Мультики",Солнце
 https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+#EXTINF:-1 group-title="Мультики",СТС Kids
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
+#EXTINF:-1 group-title="Мультики",Смайлик ТВ
+https://livetv.mylifeisgood.ml/channels/smile.m3u8
+#EXTINF:-1 group-title="Мультики",Мультиландия
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+#EXTINF:-1 group-title="Мультики",Duck TV
+https://okkotv-live.cdnvideo.ru/channel/DuckTV.m3u8
 #EXTINF:-1 group-title="Мультики",Ani
 http://streamer1.ruslanatv.ru/russia/ani_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультики",Детский мир
@@ -137,16 +148,6 @@ http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8
 http://streamer1.ruslanatv.ru/russia/nickelodeon_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультики", Nick Jr
 http://176.222.190.76/btv/icon/Nick_Jr/Nick_Jr.m3u8
-#EXTINF:-1 group-title="Мультики", Nicktoons
-http://176.222.190.76/btv/SWM/nicktoons/nicktoons.m3u8
-#EXTINF:-1 group-title="Мультики",Мультиландия
-https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
-#EXTINF:-1 group-title="Мультики",В гостях у сказки
-http://176.222.190.76/btv/SWM/U_Skazki/U_Skazki.m3u8
-#EXTINF:-1 group-title="Мультики",Duck TV
-https://okkotv-live.cdnvideo.ru/channel/DuckTV.m3u8
-#EXTINF:-1 group-title="Мультики",СТС Kids
-https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
 #EXTINF:-1 group-title="Мультики",Jimjam
 http://streamer1.ruslanatv.ru/russia/jimjam_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультики",Уникум
