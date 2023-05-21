@@ -73,7 +73,7 @@ http://streamer1.ruslanatv.ru/russia/kinohit_2023/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/kinopremiera_hd.png",КИНОПРЕМЬЕРА
 http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/kinokomediya.png",КИНОКОМЕДИЯ
-http://7b32edd3.edmonst.net/iptv/G2ARAUTUP9NK95/7248/index.m3u8
+http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/kinosvidanie_hd.png",КИНОСВИДАНИЕ
 http://7b32edd3.edmonst.net/iptv/G2ARAUTUP9NK95/7245/index.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="https://karnei4.github.io/convert/kinosemiya_hd.png",КИНОСЕМЬЯ
