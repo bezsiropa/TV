@@ -221,16 +221,6 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/nasa-tv.png",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 group-title="Свалка",Test-1
-http://saveukraine.only4.tv/14106/video.m3u8?token=saveUkrain
-#EXTINF:-1 group-title="Свалка",Test-2
-http://195.245.97.133:8000/channel129.m3u8
-#EXTINF:-1 group-title="Свалка",Test-3
-http://mfe.cliptv.az/dash/AMC_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Свалка",Test-4
-http://85.223.221.130:8000/play/a083
-#EXTINF:-1 group-title="Свалка",Тайна
-http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Свалка",КИНОУЖАС
 http://7b32edd3.edmonst.net/iptv/G2ARAUTUP9NK95/2056/index.m3u8
 #EXTINF:-1 group-title="Свалка",КИНОМИКС
