@@ -94,11 +94,11 @@ http://edge05.beetv.kz:80/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/AnimalPlanet.png",Animal Planet HD
 http://edge05.beetv.kz:80/btv/SWM/animal_hd/animal_hd.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Explore
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+https://bl.uma.media/live/485546/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat History
-https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Viasat Nature
-https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные",Viju+ Planet
 https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_History_HD.m3u8
 #EXTINF:-1 group-title="Познавательные",History
