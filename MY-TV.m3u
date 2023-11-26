@@ -241,18 +241,3 @@ https://cdn-lb.iptv2022.com/p/X9y6eQne4xQ23aRxxPDkBg,1689062006/streaming/livena
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Релакс" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/nasa-tv.png",NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-
-#EXTINF:-1 group-title="Свалка",Test-1
-http://45.159.74.13:80/Filmzone/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Свалка",Test-2
-http://45.159.74.13:80/Kinoman/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Свалка",Test-3
-http://176.222.190.76/btv/SWM/FOX/FOX.m3u8
-#EXTINF:-1 group-title="Свалка",Test-4
-http://it4.su:8044/channel/7292ed3a/index.m3u8?q=21512b24dff97f6b854a4898245fb77d
-#EXTINF:-1 group-title="Свалка",Тайна
-http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
-#EXTINF:-1 group-title="Свалка" tvg-logo="https://dvb.by/sources/logos/2935.png",NHL Network
-http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/7328/index.m3u8
-#EXTINF:-1 group-title="Свалка" tvg-logo="https://raw.githubusercontent.com/bezsiropa/TV/main/Picon/sky-sports-f1.png",Sky Sports F1
-http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/7342/index.m3u8
